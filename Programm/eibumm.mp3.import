@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/eibumm.mp3-5e09df27e5ed42ee3ad901890471d525.mp3str"
+
+[deps]
+
+source_file="res://eibumm.mp3"
+dest_files=[ "res://.import/eibumm.mp3-5e09df27e5ed42ee3ad901890471d525.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

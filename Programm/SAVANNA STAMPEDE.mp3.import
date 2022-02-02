@@ -1,0 +1,15 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+path="res://.import/SAVANNA STAMPEDE.mp3-833cd2c98b9e2151940c422edb274f7f.mp3str"
+
+[deps]
+
+source_file="res://SAVANNA STAMPEDE.mp3"
+dest_files=[ "res://.import/SAVANNA STAMPEDE.mp3-833cd2c98b9e2151940c422edb274f7f.mp3str" ]
+
+[params]
+
+loop=true
+loop_offset=0

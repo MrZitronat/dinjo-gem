@@ -1,0 +1,21 @@
+[remap]
+
+importer="wav"
+type="AudioStreamSample"
+path="res://.import/eibumm.wav-7f1418d6557cece3fd0d61c6a97e282e.sample"
+
+[deps]
+
+source_file="res://eibumm.wav"
+dest_files=[ "res://.import/eibumm.wav-7f1418d6557cece3fd0d61c6a97e282e.sample" ]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop=false
+compress/mode=0
